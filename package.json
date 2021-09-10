@@ -1,23 +1,15 @@
 {
   "name": "49-taxi-sql",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Sarunas Dovydaitis",
+  "author": "Rimantas Belovas",
   "license": "MIT",
   "dependencies": {
     "mysql2": "^2.3.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SarunasDov/53-mushroom-sql-master.git"
-  },
-  "bugs": {
-    "url": "https://github.com/SarunasDov/53-mushroom-sql-master/issues"
-  },
-  "homepage": "https://github.com/SarunasDov/53-mushroom-sql-master#readme",
-  "description": ""
+  }
 }
